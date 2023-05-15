@@ -1,0 +1,109 @@
+{
+  "basic_info": {
+    "description": "As a Computer Science graduate with experience in software engineering and full-stack development, I have a passion for creating innovative solutions using Java, JavaScript, React Native, and other frameworks. I have worked on projects using Amazon Web Services (AWS) to create and manage databases, and develop serverless backend systems. With leadership and teamwork skills developed through various roles, I am eager to contribute my skills to an innovative organization. Let's connect and explore opportunities to collaborate on interesting projects!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Embedded MP3 Player",
+      "startDate": "2022",
+      "description": "I developed a mini-MP3 player prototype by utilizing the C++ programming language and M5Core2 development board. The device has the capability to play songs from a live media server, providing a unique and functional experience. I utilized the LVGL graphics library to convert JPG images into C arrays and display bitmaps on the M5Core2 screen. As a result, the album cover of each song can be displayed, adding an appealing visual aspect to the device.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        },
+        {
+          "class": "devicon-c-plain",
+          "name": "C"
+        }
+      ]
+    },
+    {
+      "title": "Fraud Detector",
+      "startDate": "2022",
+      "description": "I developed and implemented a fraud detection system for bank transfers using machine learning algorithms and Python. This resulted in an algorithm that is 96% accurate in detecting fraudulent behavior. I conducted data cleaning and pre-processing on a large dataset of bank transactions using Pandas and scikit-learn to ensure accurate classification of fraudulent behavior. This improved the overall performance of the system, providing more reliable and efficient detection of fraudulent transactions.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-pandas-plain",
+          "name": "Pandas"
+        }
+      ]
+    },
+    {
+      "title": "Unsplash API App",
+      "startDate": "2023",
+      "description": "Utilized React Native to create an application where users can query the Unsplash API for images. The application features an endless scroll of images which can be filtered and downloaded to the users local device.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com/davidsummers5/codingassessment",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-npm-original-wordmark",
+          "name": "npm"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "eWaste Sonoma",
+      "title": "Full Stack Software Engineer Intern",
+      "years": "5.2021 - 12.2022",
+      "mainTech": ["React Native"],
+      "technologies": [
+        "JavaScript",
+        "MySQL",
+        "Amazon Web Services",
+        "Node.js",
+        "XCode",
+        "REST APIs",
+        "AWS Lambda",
+        "CSS"
+      ]
+    },
+    {
+      "company": "California Baptist University",
+      "title": "New Student Programs Intern",
+      "years": "08.2022 - 12.2022",
+      "mainTech": ["Leadership"],
+      "technologies": ["Communication", "Teamwork", "Event Planning"]
+    },
+    {
+      "company": "California Baptist University",
+      "title": "First Year Experience Leader",
+      "years": "08.2021 - 12.2021",
+      "mainTech": ["Leadership"],
+      "technologies": [
+        "Public Speaking",
+        "Teamwork",
+        "Event Planning",
+        "Communication"
+      ]
+    }
+  ]
+}
